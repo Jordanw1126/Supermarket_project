@@ -22,8 +22,8 @@ The goal is to extract business insights to improve sales strategies, customer e
 
 ## 📊 Tableau Visualization
 The SQL analysis was further visualized in Tableau for better insights.
-🔗 View Tableau Dashboard
-
+🔗 [
+](https://public.tableau.com/app/profile/jordan.williams5300/viz/SupermarketSalesInsights_17400809476700/SupermarketSalesInsights)
 ## Dashboard Features:
 - **Branch Performance:** Total revenue per branch
 - **Top Products:** Best-selling product categories
