@@ -28,3 +28,17 @@ The SQL analysis was further visualized in Tableau for better insights.
 - **Top Products:** Best-selling product categories
 - **Customer Behavior:** Spending trends by customer type
 - **Peak Sales Hours:** Identifying busiest times of the day
+
+---
+
+## 📌 Business Insights & Recommendations
+✅ Branch C has the highest revenue → Consider expansion in that region.
+✅ Lunchtime sales peak (12-2 PM) → Offer lunch-hour promotions to boost sales.
+✅ Members spend more per transaction → Expand loyalty programs to retain customers.
+✅ Food & Beverages lead in sales → Introduce targeted marketing for this category.
+
+## 🚀 Next Steps
+## 📌 Further Analysis Ideas:
+- Investigate monthly trends to identify seasonal changes.
+- Analyze gender-based buying behavior to personalize marketing.
+- Use predictive modeling (Python) to forecast future sales.
