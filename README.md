@@ -19,8 +19,13 @@ The goal is to extract business insights to improve sales strategies, customer e
 
 ---
 
-## 🛢️ Database Setup & Table Creation  
 
-### 1️⃣ Create PostgreSQL Database
-```sql
-CREATE DATABASE supermarket_sales;
+## 📊 Tableau Visualization
+The SQL analysis was further visualized in Tableau for better insights.
+🔗 View Tableau Dashboard
+
+## Dashboard Features:
+- **Branch Performance:** Total revenue per branch
+- **Top Products:** Best-selling product categories
+- **Customer Behavior:** Spending trends by customer type
+- **Peak Sales Hours:** Identifying busiest times of the day
